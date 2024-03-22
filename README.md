@@ -12,7 +12,7 @@
     1. Install `make` with your distro's package manager.
         ```
         sudo apt install make # For Debian/Ubuntu
-        sude dnf install make # For Fedora 
+        sude dnf install make # For Fedora
         sudo pacman -Sy make  # For Arch Linux
         ```
     2. Run the `make` command.
@@ -33,3 +33,4 @@ After building, the build binary is in the `build` folder. For example, to open 
 - `Ctrl-l` is an alternative to ESC.
 - `Home` and `End` to jump to beginning and end of the line.
 - `PgUp` and `PgDown` to jump to beginning and end of the screen.
+
