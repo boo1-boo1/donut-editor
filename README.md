@@ -31,3 +31,4 @@ After building, the build binary is in the `build` folder. For example, to open 
 - `Ctrl-l` is an alternative to ESC.
 - `Home` and `End` to jump to beginning and end of the line.
 - `PgUp` and `PgDown` to jump to beginning and end of the screen.
+
